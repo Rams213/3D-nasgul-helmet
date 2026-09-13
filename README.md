@@ -1,5 +1,8 @@
 # nasghul
-a 3D model of the nasghul's helmet from lord of the ring 
+a 3D model of the nasghul's helmet from lord of the ring.
+## making
+didnt have time to 3D print it yet but it is to scale so if you would like to make it your self i would apriciate if you added a photo of it after. 
+## renders:
 front view:
 
 <img width="512" height="880" alt="obrazek" src="https://github.com/user-attachments/assets/f2a42ba9-6ad0-4d18-84e1-26ad8f910826" />
