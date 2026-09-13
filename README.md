@@ -2,7 +2,7 @@
 a 3D model of the nasghul's helmet from lord of the ring.
 ## making
 didnt have time to 3D print it yet but it is to scale so if you would like to make it your self i would apriciate if you added a photo of it after. 
-## expected Bill off materials:
+## Bill Off Materials (BOM):
 
 | Material | Quantity (Just Model) | Quantity (With Supports) | Example |
 | :--- | :---: | :---: | :---: |
