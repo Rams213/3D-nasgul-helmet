@@ -3,9 +3,11 @@ a 3D model of the nasghul's helmet from lord of the ring.
 ## making
 didnt have time to 3D print it yet but it is to scale so if you would like to make it your self i would apriciate if you added a photo of it after. 
 ## expected list of materials:
-|material|quantity|
-|filament PLA| just model| with supoorts|
-||470 grams| 500 grams |
+
+| Material | Quantity (Just Model) | Quantity (With Supports) |
+| :--- | :---: | :---: |
+| **Filament PLA** | 470 grams | 500 grams |
+
 ## renders:
 front view:
 
